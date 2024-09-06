@@ -1,5 +1,5 @@
-[submodule "external/release-2.30.x"]
-	path = external/release-2.30.x
+[submodule "external/SDL_release-2.30.x"]
+	path = external/SDL_release-2.30.x
 	url = https://github.com/libsdl-org/SDL.git
 	branch = release-2.30.x
 [submodule "external/SDL_image_release-2.8.x"]
