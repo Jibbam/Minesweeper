@@ -2,3 +2,7 @@
 	path = external/release-2.30.x
 	url = https://github.com/libsdl-org/SDL.git
 	branch = release-2.30.x
+[submodule "external/SDL_image_release-2.8.x"]
+	path = external/SDL_image_release-2.8.x
+	url = https://github.com/libsdl-org/SDL_image.git
+	branch = release-2.8.x
