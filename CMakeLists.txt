@@ -33,9 +33,9 @@ target_include_directories(
   "${PROJECT_SOURCE_DIR}/include/Minesweeper"
 )
 
-add_subdirectory("external/SDL-release-2.30.6")
-add_subdirectory("external/SDL_image-release-2.8.2")
-add_subdirectory("external/SDL_ttf-release-2.22.0")
+add_subdirectory("external/SDL_release-2.30.x")
+add_subdirectory("external/SDL_image_release-2.8.x")
+add_subdirectory("external/SDL_ttf_release-2.22.x")
 target_link_libraries(Minesweeper_crossplatform PRIVATE
     SDL2
     SDL2_image
